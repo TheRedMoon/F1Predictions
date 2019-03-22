@@ -1,0 +1,22 @@
+Rank: 0 Team:   Arsenal FC with score: 41
+Rank: 1 Team:   Manchester City with score: 41
+Rank: 2 Team:   Chelsea FC with score: 39
+Rank: 3 Team:   Everton FC with score: 37
+Rank: 4 Team:   Liverpool FC with score: 36
+Rank: 5 Team:   Tottenham Hotspur with score: 34
+Rank: 6 Team:   Manchester United with score: 34
+Rank: 7 Team:   Newcastle United with score: 33
+Rank: 8 Team:   Southampton FC with score: 27
+Rank: 9 Team:   Hull City with score: 23
+Rank: 10 Team:   Swansea City with score: 21
+Rank: 11 Team:   Aston Villa with score: 20
+Rank: 12 Team:   Stoke City with score: 19
+Rank: 13 Team:   Norwich City with score: 19
+Rank: 14 Team:   Cardiff City with score: 18
+Rank: 15 Team:   West Brom with score: 18
+Rank: 16 Team:   Crystal Palace with score: 17
+Rank: 17 Team:   Fulham FC with score: 16
+Rank: 18 Team:   West Ham United with score: 15
+Rank: 19 Team:   Sunderland AFC with score: 14
+Rank: 20 Team:   FC Chelsea FC with score: 1
+Rank: 21 Team:   Arsenal with score: 1
